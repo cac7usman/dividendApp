@@ -50,4 +50,5 @@ public class Configuration {
     public static String getGoogleSpreadsheetWriteDividendRange() {
         return properties.getProperty("google.spreadsheet.write.dividend.range");
     }
+
 }
